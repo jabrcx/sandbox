@@ -8,4 +8,4 @@ HTML link:
 
 Markdown combo:
 
-[![the alt text](test.jpg "the title")](test.jpg)
+[![the alt text](test.jpg "the title")](https://raw.githubusercontent.com/jabrcx/sandbox/master/test.jpg)
